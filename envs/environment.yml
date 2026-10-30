@@ -1,0 +1,14 @@
+name: vitiligo-t
+channels:
+   - conda-forge
+   - bioconda
+dependencies:
+   - python=3.11
+   - scanpy
+   - anndata
+   - matplotlib
+   - jupyterlab
+   - leidenalg
+   - harmonypy
+   - scikit-image
+   - seaborn

@@ -1,0 +1,12 @@
+name: vitiligo-t-r
+channels:
+   - conda-forge
+   - bioconda
+dependencies:
+   - r-base=4.4
+   - bioconductor-deseq2
+   - bioconductor-apeglm
+   - bioconductor-fgsea
+   - r-msigdbr
+   - r-tidyverse
+   - r-irkernel
