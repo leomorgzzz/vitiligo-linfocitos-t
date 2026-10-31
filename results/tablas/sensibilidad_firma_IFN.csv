@@ -1,0 +1,5 @@
+escenario,n_Sano,n_NL,n_LS,p_NL_vs_Sano,p_LS_vs_Sano,rho_tendencia,p_tendencia
+Original,5,4,5,0.413,0.032,0.692,0.006
+Sin CON194,4,4,5,0.686,0.063,0.652,0.016
+Sin DER114_LS y DER115_LS,5,4,3,0.413,0.036,0.738,0.006
+Sin 486_LS y BIO023_LS,5,4,3,0.413,0.143,0.566,0.055
