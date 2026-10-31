@@ -1,0 +1,52 @@
+tipo,condicion,muestra,n,positivas,pct
+Endotelial,LS,486_LS,556,35,6.29
+Endotelial,LS,BIO023_LS,361,43,11.91
+Endotelial,LS,DER114_LS,278,2,0.72
+Endotelial,LS,DER115_LS,431,16,3.71
+Endotelial,LS,DER119_LS,413,10,2.42
+Endotelial,LS,DER120_LS,160,1,0.62
+Endotelial,NL,486_NL,55,0,0.0
+Endotelial,NL,DER114_NL,307,2,0.65
+Endotelial,NL,DER115_NL,394,29,7.36
+Endotelial,NL,DER119_NL,226,8,3.54
+Endotelial,NL,DER120_NL,214,1,0.47
+Endotelial,Sano,465,147,0,0.0
+Endotelial,Sano,632,171,1,0.58
+Endotelial,Sano,658,238,1,0.42
+Endotelial,Sano,CON161,96,7,7.29
+Endotelial,Sano,CON171,418,4,0.96
+Endotelial,Sano,CON194,510,0,0.0
+Fibroblasto,LS,486_LS,74,10,13.51
+Fibroblasto,LS,BIO023_LS,64,1,1.56
+Fibroblasto,LS,DER114_LS,388,4,1.03
+Fibroblasto,LS,DER115_LS,908,10,1.1
+Fibroblasto,LS,DER119_LS,384,7,1.82
+Fibroblasto,LS,DER120_LS,33,0,0.0
+Fibroblasto,NL,DER114_NL,335,0,0.0
+Fibroblasto,NL,DER115_NL,423,18,4.26
+Fibroblasto,NL,DER119_NL,132,0,0.0
+Fibroblasto,NL,DER120_NL,101,0,0.0
+Fibroblasto,Sano,465,123,1,0.81
+Fibroblasto,Sano,632,108,0,0.0
+Fibroblasto,Sano,658,50,0,0.0
+Fibroblasto,Sano,CON161,74,0,0.0
+Fibroblasto,Sano,CON194,92,0,0.0
+Mieloide,LS,DER114_LS,147,3,2.04
+Mieloide,LS,DER115_LS,122,5,4.1
+Mieloide,LS,DER119_LS,45,2,4.44
+Mieloide,NL,DER114_NL,48,2,4.17
+Mieloide,NL,DER115_NL,59,1,1.69
+Queratinocito basal,LS,486_LS,74,0,0.0
+Queratinocito basal,LS,BIO023_LS,296,3,1.01
+Queratinocito basal,LS,DER114_LS,242,1,0.41
+Queratinocito basal,LS,DER115_LS,290,0,0.0
+Queratinocito basal,LS,DER119_LS,312,1,0.32
+Queratinocito basal,LS,DER120_LS,56,0,0.0
+Queratinocito basal,NL,DER114_NL,105,0,0.0
+Queratinocito basal,NL,DER115_NL,368,2,0.54
+Queratinocito basal,NL,DER119_NL,97,0,0.0
+Queratinocito basal,NL,DER120_NL,127,0,0.0
+Queratinocito basal,Sano,632,73,0,0.0
+Queratinocito basal,Sano,CON161,134,0,0.0
+Queratinocito basal,Sano,CON171,115,0,0.0
+Queratinocito basal,Sano,CON194,181,0,0.0
