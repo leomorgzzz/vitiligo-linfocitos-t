@@ -12,3 +12,4 @@ dependencies:
    - harmonypy
    - scikit-image
    - seaborn
+   - ipywidgets
