@@ -1,4 +1,4 @@
-# Linfocitos T en piel de vitiligo: reanálisis de scRNA-seq (GSE298871)
+# Linfocitos T en piel de vitiligo, reanálisis de scRNA-seq (GSE298871)
 
 ## Resumen
 
