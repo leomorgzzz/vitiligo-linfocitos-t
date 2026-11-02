@@ -1,4 +1,19 @@
 subtipo,names,scores,logfoldchanges,pvals,pvals_adj
+CD4 con estrés,FOS,25.549,5.062,0.0,0.0
+CD4 con estrés,DUSP1,24.817,4.59,0.0,0.0
+CD4 con estrés,JUND,23.07,3.108,0.0,0.0
+CD4 con estrés,JUNB,22.776,4.169,0.0,0.0
+CD4 con estrés,HSPA8,22.65,3.239,0.0,0.0
+CD4 con estrés,EIF1,21.617,2.095,0.0,0.0
+CD4 con estrés,DNAJB1,20.837,3.886,0.0,0.0
+CD4 con estrés,FOSB,20.011,3.921,0.0,0.0
+CD4 con estrés,H3F3B,19.728,2.146,0.0,0.0
+CD4 con estrés,RGCC,18.946,3.695,0.0,0.0
+CD4 con estrés,FTH1,18.859,2.3,0.0,0.0
+CD4 con estrés,HSPA1B,18.854,4.008,0.0,0.0
+CD4 con estrés,PPP1R15A,18.132,3.236,0.0,0.0
+CD4 con estrés,DNAJA1,18.046,3.545,0.0,0.0
+CD4 con estrés,HSP90AA1,17.952,2.653,0.0,0.0
 CD4 memoria,MALAT1,15.472,1.077,0.0,0.0
 CD4 memoria,ARHGAP15,12.126,1.354,0.0,0.0
 CD4 memoria,AHNAK,8.701,0.826,0.0,0.0
@@ -14,21 +29,6 @@ CD4 memoria,SYNE2,5.662,0.998,0.0,0.0
 CD4 memoria,TNRC6B,5.451,1.277,0.0,0.0
 CD4 memoria,PCNX1,5.378,1.343,0.0,0.0
 CD4 memoria,RORA,5.309,0.953,0.0,0.0
-CD4 residente,FOS,25.549,5.062,0.0,0.0
-CD4 residente,DUSP1,24.817,4.59,0.0,0.0
-CD4 residente,JUND,23.07,3.108,0.0,0.0
-CD4 residente,JUNB,22.776,4.169,0.0,0.0
-CD4 residente,HSPA8,22.65,3.239,0.0,0.0
-CD4 residente,EIF1,21.617,2.095,0.0,0.0
-CD4 residente,DNAJB1,20.837,3.886,0.0,0.0
-CD4 residente,FOSB,20.011,3.921,0.0,0.0
-CD4 residente,H3F3B,19.728,2.146,0.0,0.0
-CD4 residente,RGCC,18.946,3.695,0.0,0.0
-CD4 residente,FTH1,18.859,2.3,0.0,0.0
-CD4 residente,HSPA1B,18.854,4.008,0.0,0.0
-CD4 residente,PPP1R15A,18.132,3.236,0.0,0.0
-CD4 residente,DNAJA1,18.046,3.545,0.0,0.0
-CD4 residente,HSP90AA1,17.952,2.653,0.0,0.0
 CD8 / gamma delta,ZNF683,7.622,4.705,0.0,0.0
 CD8 / gamma delta,FXYD2,6.585,4.228,0.0,0.0
 CD8 / gamma delta,CTSW,6.344,2.388,0.0,0.0
