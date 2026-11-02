@@ -115,6 +115,13 @@ mamba env create -f envs/environment.yml
 mamba env create -f envs/environment-r.yml
 ```
 
+Para usar exactamente las mismas versiones del análisis original (probado en Linux):
+
+```bash
+mamba env create -f envs/environment-versiones.yml
+mamba env create -f envs/environment-r-versiones.yml
+```
+
 Para usar R en JupyterLab hay que registrar su kernel una vez, con los dos entornos activos:
 
 ```bash
